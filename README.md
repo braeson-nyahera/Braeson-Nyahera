@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Last-Quad
-- 👀 I’m interested in learning of writing perfect code
-- Eager to understand different types of coding
+- 👋 Hi, I’m Braeson Nyahera
+- 👀 I’m a junior software developer.
+- Currently studying coputer science.
 
 <!---
 Last-Quad/Last-Quad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
