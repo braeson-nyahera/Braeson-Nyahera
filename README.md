@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Braeson Nyahera
 - 👀 I’m a junior software developer.
-- Currently studying coputer science.
+- Currently studying computer science.
 
 <!---
 Last-Quad/Last-Quad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
