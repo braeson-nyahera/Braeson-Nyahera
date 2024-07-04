@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Braeson Nyahera
+- ✨ Currently studying computer science at Kabarak University.
 - 👀 I’m a junior software developer.
-- Currently studying computer science.
+- I'm an AI Enthusiast
 
 <!---
 Last-Quad/Last-Quad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
