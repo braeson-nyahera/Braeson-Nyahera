@@ -14,7 +14,8 @@ I'm a passionate software developer, AI enthusiast, and data scientist currently
 An Android app for peer-to-peer learning, made with Flutter. Mindmate connects students to share knowledge, collaborate, and support each other on their learning journeys.
 
 ## 📫 Connect With Me
-- [LinkedIn](https://lonkedin.com/in/braeson-nyahera-0a7397286)
+- [Portfolio](https://braeson-nyahera.github.io/)
+- [LinkedIn](https://linkedin.com/in/braeson-nyahera-0a7397286)
 - 📧 braebulimo@gmail.com
 
 ## 🔍 Other Cool Projects
