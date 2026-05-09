@@ -7,7 +7,14 @@ I'm a passionate software developer, AI enthusiast, and data scientist currently
 - **AI & Machine Learning**
 - **Flutter** (for Android apps)
 - **Data Science & Analytics**
-  
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🌟 Favorite Project
 ### [Mindmate](https://github.com/braeson-nyahera/Mindmate)
