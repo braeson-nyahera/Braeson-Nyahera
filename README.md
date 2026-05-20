@@ -29,8 +29,8 @@ I'm a passionate software developer, AI enthusiast, and data scientist currently
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Favorite Project
-### [Mindmate](https://github.com/braeson-nyahera/Mindmate)
-An Android app for peer-to-peer learning, made with Flutter. Mindmate connects students to share knowledge, collaborate, and support each other on their learning journeys.
+### [Smarthealth](https://github.com/braeson-nyahera/smarthealth)
+Smarthealth is an android application developed to help in detecting hypertension from analysis of data collected from modern smartwatches. It is an android application that communicates with an AI model by the use of an API.
 
 ## Connect With Me
 - [Portfolio](https://braeson-nyahera.github.io/)
@@ -38,7 +38,7 @@ An Android app for peer-to-peer learning, made with Flutter. Mindmate connects s
 - 📧 braebulimo@gmail.com
 
 ## Other Cool Projects
-- [smarthealth](https://github.com/braeson-nyahera/smarthealth) – Health tech innovation.
+- [MindMate](https://github.com/braeson-nyahera/Mindmate)- A peer-to-peer android learning platform.
 - [lets-bite](https://github.com/braeson-nyahera/lets-bite) – Food ordering system for quick and easy meal selection.
 - [e-learning-system](https://github.com/braeson-nyahera/e-learning-system) – Platform for online learning and collaboration.
 
