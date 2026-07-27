@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Braeson Nyahera!
 
-I'm a passionate software developer, AI enthusiast, and data scientist currently exploring **Data Engineering**. I love building impactful solutions with **Python.** My journey blends curiosity for artificial intelligence, data, and real-world tech—always seeking ways to make a difference.
+I'm a passionate software developer, AI enthusiast, and data scientist currently exploring **Data Engineering**. I love building impactful solutions with **Python.** My journey blends curiosity for artificial intelligence, data, and real-world tech-always seeking ways to make a difference.
 
 ## My Skills
 - **Python** | Django | Flask
@@ -44,11 +44,11 @@ Smarthealth is an android application developed to help in detecting hypertensio
 - [e-learning-system](https://github.com/braeson-nyahera/e-learning-system) – Platform for online learning and collaboration.
 
 ## Bio
-Developer, and lifelong learner on a mission to turn ideas into solutions. Whether it's building apps, crunching data, or exploring AI, I love pushing boundaries and connecting with fellow tech enthusiasts.
+Developer, Engineer, and lifelong learner on a mission to turn ideas into solutions. Whether it's building apps, crunching data, or exploring AI, I love pushing boundaries and connecting with fellow tech enthusiasts.
 
 ## Fun Fact
-My best code ideas come to me after midnight—powered by coffee and crazy playlists!
+My best code ideas come to me after midnight,powered by coffee and crazy playlists!
 
 ---
 
-Thanks for stopping by! Let’s connect, collaborate, and create something awesome.
+Thanks for stopping by! Let’s connect, collaborate and create something awesome.
